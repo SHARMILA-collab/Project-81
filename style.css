@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+	font-family: 'Pangolin', cursive;
+}
+.body_backgorund {
+	background-image: url("Project_1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+	border-color: gold;
+}
